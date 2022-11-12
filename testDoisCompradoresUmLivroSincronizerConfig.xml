@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<JAT>
+	<action>
+		<agent>FirstBuyer</agent>
+		<performative>ACLMessage.CFP</performative>
+		
+		<agent>SecoundBuyer</agent>
+		<performative>ACLMessage.CFP</performative>
+		
+		<agent>FirstBuyer</agent>
+		<performative>ACLMessage.ACCEPT_PROPOSAL</performative>
+		
+		<agent>SecoundBuyer</agent>
+		<performative>ACLMessage.ACCEPT_PROPOSAL</performative>
+	</action>
+</JAT>
